@@ -36,8 +36,8 @@ End Program with 'q'. Allow the program to be terminated by pressing the 'q' key
 
 ## Program:
 ```
-### Developed By:  Elamaran S E
-### Register No:  212222230036
+### Developed By:  DINESH S
+### Register No:  212222230033
 ```
 ## i) Write the frame as JPG file
 ``` Python
